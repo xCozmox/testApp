@@ -2,6 +2,9 @@
 /* tslint:disable */
 import '../content/scss/vendor.scss';
 
+import 'select2/dist/js/select2';
+import 'survey-angular/survey.angular';
+import 'surveyjs-editor/surveyeditor';
 // Imports all fontawesome core and solid icons
 
 import { library } from '@fortawesome/fontawesome-svg-core';

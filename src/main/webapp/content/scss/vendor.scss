@@ -9,4 +9,8 @@ eg $input-color: red;
 // Import Bootstrap source files from node_modules
 @import '~bootstrap/scss/bootstrap';
 
+@import '~survey-angular/survey.css';
+
+@import '~surveyjs-editor/surveyeditor.css';
+
 /* jhipster-needle-scss-add-vendor JHipster will add new css style */

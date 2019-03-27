@@ -24,7 +24,8 @@ const ENTITY_STATES = [...surveyRoute, ...surveyPopupRoute];
         SurveyUpdateComponent,
         SurveyDeleteDialogComponent,
         SurveyDeletePopupComponent,
-        SurveyJsComponent
+        SurveyJsComponent,
+        SurveyJsEditorComponent
     ],
     entryComponents: [SurveyComponent, SurveyUpdateComponent, SurveyDeleteDialogComponent, SurveyDeletePopupComponent],
     schemas: [CUSTOM_ELEMENTS_SCHEMA]
